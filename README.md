@@ -11,4 +11,4 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 </details>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:fe988e,100:b2aefe&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:fe988e,100:b2aefe&height=200&section=header&text=Leegeunpyo&fontSize=90&fontColor=ffffff)
