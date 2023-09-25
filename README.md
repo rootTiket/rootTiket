@@ -7,7 +7,7 @@
 <a href="https://github.com/rootTiket/"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </details>
 <details>
-<summary>My Study</summary>
+<summary>📖My Study📖</summary>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 </details>
