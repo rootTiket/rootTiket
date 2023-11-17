@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fe988e,100:b2aefe&height=200&section=header&text=Leegeunpyo&fontSize=90&fontColor=ffffff)
 
-느려도 꾸준하게 공부하려 합니다🔥
+느려도 꾸준하게 공부합니다🔥
 <details>
 <summary>Follow me👋</summary>
 <a href="https://www.instagram.com/2__geunpyo/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
