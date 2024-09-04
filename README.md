@@ -2,7 +2,6 @@
 
 느려도 꾸준하게 공부합니다🔥
 <br/>
-[CRAYON](https://crayon.land) (2024.07 ~ ing)
 
 <details>
 <summary>Contact me👋</summary>
