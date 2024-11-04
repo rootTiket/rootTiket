@@ -10,7 +10,7 @@ Product 🧰
 <br/>
 [CRAYON](https://crayon.land)
 <br/>
-[LUPG](https://lupg.me) - 리팩토링 중🏥
+[LUPG](https://lupg.me)
 <br/>
 
 
