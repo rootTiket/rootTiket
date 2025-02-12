@@ -10,8 +10,6 @@ Product 🧰
 <br/>
 [CRAYON](https://crayon.land)
 <br/>
-[LUPG](https://lupg.me)
-<br/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootTiket)](https://github.com/anuraghazra/github-readme-stats)
