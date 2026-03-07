@@ -3,8 +3,6 @@
 문제를 직접 찾아 해결하는 과정을 즐기는 백엔드 개발자 입니다. 단순히 주어진 요구사항을 구현하는 것을 넘어, **진짜 문제를 해결할 수 있는가?** 를 고민합니다.
 반복되는 작업은 자동화하고 문제의 본질에 집중합니다.
 
-<br/>
-
 ### Languages
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
