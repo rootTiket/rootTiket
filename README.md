@@ -31,7 +31,7 @@
   * **동시성 제어:** 대규모 트래픽 발생 시의 Race Condition 버그를 막기 위해 DB 레벨의 복합 유니크 키(recruitment_id + user_id)를 적용하여 중복 지원 데이터 발생률을 0건.
   * **서버리스 정적 호스팅:** Next.js 컨테이너의 CPU 스파이크 문제를 S3 + CloudFront 정적 호스팅 파이프라인으로 전환하여, 평균 8초 이내로 배포하도록 구현.
 
-* **Claude-Cli-Analytics | AI Agent 효율 시각화 대시보드 (Open Source)**
+* **[Claude-Cli-Analytics](https://www.npmjs.com/package/claude-cli-analytics) | AI Agent 효율 시각화 대시보드 (Open Source)**
   * **AI 컨텍스트 엔지니어링:** Claude Code의 환각 현상을 제어하기 위해 구조화된 스펙 문서를 주입하는 환경을 설계하여, 기능 구현시 토큰 사용량을 15% 절감.
   * **DX 개선 사이클 구축:** 로컬에 저장된 Claude Code의 대화 기록을 파싱하여 AI의 스펙 문서 참조율과 Hit Rate를 시각화하는 대시보드 개발
 ---
